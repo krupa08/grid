@@ -1,0 +1,46 @@
+body{
+	font-family: 'Advent Pro', sans-serif;
+	background-color: #022152;
+}
+
+.back_ground{
+	position:relative;
+	top:20%;
+}
+
+#heading-main{
+	position: relative;
+	text-align: center;
+	color: #f2a903;
+	padding: 30px;
+	margin: auto;
+	font-size: 60px;
+}
+#start_button{
+	background-color: #f2a903;
+	color: #022152;
+	border:#022152;
+}
+
+.button{
+	background-color: #f2a903;
+	color: #022152;
+	border:#022152;
+	border-radius: 5px;
+	padding: 5px;
+	margin: auto;
+	font-size: 20px;
+}
+
+.button:hover{
+	background-color: #f2b93a;
+	border-radius: 5px;
+	padding: 5px;
+	margin: auto;
+	font-size: 20px;
+}
+
+.buttonslist{
+	display: block;
+}
+
